@@ -44,7 +44,7 @@ Advanced usage of native UIAlertController with TextField, TextView, DatePicker,
 ```swift
 let alert = UIAlertController(style: .alert, title: "Title", message: "Message")
 // or
-let alert = UIAlertController(style: .alert)
+let alert = UIAlertController(preferredStyle: .alert)
 ```
 
 - Set and styling title

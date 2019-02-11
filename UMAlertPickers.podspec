@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint AZReusable.podspec' to ensure this is a
+# Be sure to run `pod lib lint UMAlertPickers.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'Source/**/*.{swift}'
   s.resources = ['Source/**/*.{xib,bundle}', 'Source/**/*.{xcassets,png}']
   # s.resource_bundles = {
-  #   'AZReusable' => ['AZReusable/Assets/*.{xib,bundle}', 'AZReusable/Classes/*.{xib,bundle}']
+  #   'UMAlertPickers' => ['Source/*.{xib,bundle}', 'Source/*.{xib,bundle}']
   # }
 
   s.xcconfig = { 
